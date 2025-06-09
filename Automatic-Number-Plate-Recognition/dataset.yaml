@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/NumberPlateDataset/images/train
+val: /content/drive/MyDrive/NumberPlateDataset/images/val
+
+nc: 1
+names: ['license_plate']
